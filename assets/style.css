@@ -1,3 +1,35 @@
 header{
     background-color: blue;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    padding: 25px;
+    margin: 25px;
+}
+
+.questions{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right:auto;
+    margin-left:auto;
+    text-align: center;
+object-position: center;
+max-width: 50%;
+}
+
+p {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right:auto;
+    margin-left:auto;
+    text-align: center;
+}
+
+button {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+
 }
